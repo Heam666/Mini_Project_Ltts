@@ -1,6 +1,7 @@
-#Cryptography as the part of security.
- The encryption and decryption whcih plays the major role in our day to day life, this 2 keys words are used daily when we use the phone or the system. 
- in this the two types which i used is the Asymmetric and the Symmetic way for the encrypt and the decrypt the data from whcih you can secure your message.
+##Cryptography as the part of security.
+
+The encryption and decryption whcih plays the major role in our day to day life, this 2 keys words are used daily when we use the phone or the system. 
+in this the two types which i used is the Asymmetric and the Symmetic way for the encrypt and the decrypt the data from whcih you can secure your message.
 
 
 
