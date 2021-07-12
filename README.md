@@ -23,3 +23,7 @@ in this the two types which i used is the Asymmetric and the Symmetic way for th
 <a href="https://frontend.code-inspector.com/public/user/github/Heam666">
    <img src="https://code-inspector.com/public/badge/user/github/Heam666?style=light" alt="code inspector badge" />
 </a>
+
+
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/65daa085dfeb4ef2b9b35e662adba464)](https://www.codacy.com/gh/Heam666/Mini_Project_Ltts/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Heam666/Mini_Project_Ltts&amp;utm_campaign=Badge_Grade)
