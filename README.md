@@ -17,3 +17,9 @@ in this the two types which i used is the Asymmetric and the Symmetic way for th
 |`6_ImagesAndVideos`  | All Images
 |`7_Other`            | Contain File
 
+
+
+
+<a href="https://frontend.code-inspector.com/public/user/github/Heam666">
+   <img src="https://code-inspector.com/public/badge/user/github/Heam666?style=light" alt="code inspector badge" />
+</a>
