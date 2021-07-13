@@ -12,7 +12,12 @@ Integrity - Information cannot be altered.
 
 Non-repudiation - Sender cannot deny his/her intentions in the transmission of the information at a later stage
 
-Authentication - Sender and receiver can confirm each
+Authentication - Sender and receiver can confirm each.
+
+
+## SWOT Analysis
+![SWOT analysis](https://github.com/Heam666/Mini_Project_Ltts/blob/main/6_ImagesAndVideos/Cryptography.jpg)
+
 
 
 # 4W&#39;s and 1&#39;H
