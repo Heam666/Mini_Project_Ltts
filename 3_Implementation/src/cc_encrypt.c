@@ -24,7 +24,7 @@ void cc_encrypt(char message[100], int key)
         message[i] = ch;
         }
     }
-    printf(" %s", message);
+    printf("%s", message);
 } 
 /*   
 int main()

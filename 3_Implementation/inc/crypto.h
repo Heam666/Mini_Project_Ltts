@@ -15,15 +15,15 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+#include<conio.h>
+#include<math.h>
 
 /**
  * @brief 
  * for the validation purpose.
  * 
  */
-#define heam
-#define khpd
-
+int prime(long int );
 void cc_encrypt(char message[100], int key);
 void cc_decrypt(char message[100], int key);
 
