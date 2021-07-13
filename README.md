@@ -36,4 +36,4 @@ in this the two types which i used is the Asymmetric and the Symmetic way for th
 [![cppcheck-action](https://github.com/Heam666/Mini_Project_Ltts/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Heam666/Mini_Project_Ltts/actions/workflows/cppcheck.yml)
 
 [![cppcheck-action](https://github.com/Heam666/Mini_Project_Ltts/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Heam666/Mini_Project_Ltts/actions/workflows/cppcheck.yml)
->>>>>>> 25d0e47bb6db36cfb44e66e850a736569972fe6c
+
