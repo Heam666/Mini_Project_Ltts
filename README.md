@@ -27,3 +27,9 @@ in this the two types which i used is the Asymmetric and the Symmetic way for th
 
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/65daa085dfeb4ef2b9b35e662adba464)](https://www.codacy.com/gh/Heam666/Mini_Project_Ltts/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Heam666/Mini_Project_Ltts&amp;utm_campaign=Badge_Grade)
+
+[![Unit testing](https://github.com/Heam666/Mini_Project_Ltts/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Heam666/Mini_Project_Ltts/actions/workflows/unit-test.yml)
+
+
+
+[![cppcheck-action](https://github.com/Heam666/Mini_Project_Ltts/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Heam666/Mini_Project_Ltts/actions/workflows/cppcheck.yml)
