@@ -1,5 +1,8 @@
 #include "crypto.h"
-
+/**
+ * @brief Encrypting and decrypting the data based on the user preference. 
+ * 
+ */
 long int p,q,n,t,flag,e[100],d[100],temp[100],j,m[100],en[100],i,z; 
 char msg[100]; 
 void ce(); 

@@ -1,5 +1,10 @@
 #include "crypto.h"
-
+/**
+ * @brief :Function to check wheather the entered number is prime or not.
+ * 
+ * @param pr : Prime value which has been tentered by the user.
+ * @return int : returned value is 0 then its not prime and the returned value is 1 then it is prime.
+ */
 int prime(long int pr) 
 { 
     long int i,j; 

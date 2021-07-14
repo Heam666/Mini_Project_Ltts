@@ -1,5 +1,10 @@
 #include "crypto.h"
-
+/**
+ * @brief :for the Decrypting of the message using key.
+ * 
+ * @param message :Encrypted message
+ * @param key :Key to decrypt the message
+ */
 void cc_decrypt(char message[100], int key)
 {
     for(int i = 0; message[i] != '\0'; ++i)

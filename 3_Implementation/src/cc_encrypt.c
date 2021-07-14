@@ -1,4 +1,10 @@
 #include "crypto.h"
+/**
+ * @brief :For encrypting the message using the plain messahe and the  key
+ * 
+ * @param message :Plain message which should be encrypted 
+ * @param key :Key to encrypt the plain text.
+ */
 
 void cc_encrypt(char message[100], int key)
 {
